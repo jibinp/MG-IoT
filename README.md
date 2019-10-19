@@ -27,17 +27,29 @@ Make use of Amazon CDN (Content Delivery Network) to fetch data from the Amazon 
 
 ### Hardware
 • Raspberry Pi 3: Model B
+
 • Arduino
+
 • Battery 12 V
+
 • Relay
+
 • Automatic Change Over Switch (2 Phase, 63A)
+
 • Charge Monitoring Sensor (INA219)
+
 • Analog AC Current Sensor
+
 • Invertor
+
 • Electrical Load
 
 ### Software
 • Embedded C.
+
 • Proteus.
+
 • Amazon Web Service.
+
 • Code blocks
+
