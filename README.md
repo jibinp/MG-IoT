@@ -23,7 +23,11 @@ Raspberry Pi is connected to the internet via ethernet cable or a Wi-Fi. The inp
 
 Make use of Amazon CDN (Content Delivery Network) to fetch data from the Amazon S3 bucket. To get live feed of the system status and to control the system operation. Plots of graph of the power consumption vs time. User can control the which power supply should be in used as per their decision. It can be enabled by clicking a button in the website.
 
-##H ardware and Software Requirement:
+http://mgiot.s3-website-us-east-1.amazonaws.com/
+
+https://github.com/jibinp/MGIoT-Website
+
+## Hardware and Software Requirement:
 
 ### Hardware
 
