@@ -27,28 +27,36 @@ Make use of Amazon CDN (Content Delivery Network) to fetch data from the Amazon 
 
 ### Hardware
 
-![alt text](https://raw.githubusercontent.com/jibinp/Micro-Grid-Integrated-with-IOT/master/Pics/RaspberryPi.jpg) ## Raspberry Pi 3: Model B
+![alt text](https://raw.githubusercontent.com/jibinp/Micro-Grid-Integrated-with-IOT/master/Pics/RaspberryPi.jpg) 
+## Raspberry Pi 3: Model B
 
 
-![alt text](https://raw.githubusercontent.com/jibinp/Micro-Grid-Integrated-with-IOT/master/Pics/Arduino.jpg) ## Arduino
+![alt text](https://raw.githubusercontent.com/jibinp/Micro-Grid-Integrated-with-IOT/master/Pics/Arduino.jpg) 
+## Arduino
 
 
-![alt text](https://raw.githubusercontent.com/jibinp/Micro-Grid-Integrated-with-IOT/master/Pics/Battery.jpg) ## Battery 12 V
+![alt text](https://raw.githubusercontent.com/jibinp/Micro-Grid-Integrated-with-IOT/master/Pics/Battery.jpg) 
+## Battery 12 V
 
 
-![alt text](https://raw.githubusercontent.com/jibinp/Micro-Grid-Integrated-with-IOT/master/Pics/Relay.png) ## Relay
+![alt text](https://raw.githubusercontent.com/jibinp/Micro-Grid-Integrated-with-IOT/master/Pics/Relay.png) 
+## Relay
 
 
-![alt text](https://raw.githubusercontent.com/jibinp/Micro-Grid-Integrated-with-IOT/master/Pics/ACS.jpg) ## Automatic Change Over Switch (2 Phase, 63A)
+![alt text](https://raw.githubusercontent.com/jibinp/Micro-Grid-Integrated-with-IOT/master/Pics/ACS.jpg) 
+## Automatic Change Over Switch (2 Phase, 63A)
 
 
-![alt text](https://raw.githubusercontent.com/jibinp/Micro-Grid-Integrated-with-IOT/master/Pics/vltSensor.jpg) ## Charge Monitoring Sensor (INA219)
+![alt text](https://raw.githubusercontent.com/jibinp/Micro-Grid-Integrated-with-IOT/master/Pics/vltSensor.jpg) 
+## Charge Monitoring Sensor (INA219)
 
 
-![alt text](https://raw.githubusercontent.com/jibinp/Micro-Grid-Integrated-with-IOT/master/Pics/CurrentSensor.png) ## Analog AC Current Sensor
+![alt text](https://raw.githubusercontent.com/jibinp/Micro-Grid-Integrated-with-IOT/master/Pics/CurrentSensor.png) 
+## Analog AC Current Sensor
 
 
-![alt text](https://raw.githubusercontent.com/jibinp/Micro-Grid-Integrated-with-IOT/master/Pics/Invertor.jpg) ## Invertor
+![alt text](https://raw.githubusercontent.com/jibinp/Micro-Grid-Integrated-with-IOT/master/Pics/Invertor.jpg) 
+## Invertor
 
 
 ## Electrical Load
