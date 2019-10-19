@@ -1,4 +1,4 @@
-# Micro # Grid # Integrated # With # IoT
+# Micro Grid Integrated With IoT
 
 A microgrid is a local energy grid with control capability, which means it can disconnect from the utility grid and operate autonomously known as islanding. It can also be defined as an interconnection of distributed energy sources and loads with a clearly defined electrical boundaries. 
 
@@ -21,4 +21,23 @@ Raspberry Pi is connected to the internet via ethernet cable or a Wi-Fi. The inp
 
 ![alt text](https://raw.githubusercontent.com/jibinp/Micro-Grid-Integrated-with-IOT/master/Pics/CircuitDiagram.jpg)
 
-Make use of Amazon CDN (Content Delivery Network) to fetch data from the Amazon S3 bucket. To get live feed of the system status and to control the system operation. Plots of graph of the power consumption vs time. User can control the which power supply should be in used as per their decision. It can be enabled by clicking a button in the website
+Make use of Amazon CDN (Content Delivery Network) to fetch data from the Amazon S3 bucket. To get live feed of the system status and to control the system operation. Plots of graph of the power consumption vs time. User can control the which power supply should be in used as per their decision. It can be enabled by clicking a button in the website.
+
+##H ardware and Software Requirement:
+
+### Hardware
+• Raspberry Pi 3: Model B
+• Arduino
+• Battery 12 V
+• Relay
+• Automatic Change Over Switch (2 Phase, 63A)
+• Charge Monitoring Sensor (INA219)
+• Analog AC Current Sensor
+• Invertor
+• Electrical Load
+
+### Software
+• Embedded C.
+• Proteus.
+• Amazon Web Service.
+• Code blocks
