@@ -78,3 +78,10 @@ Make use of Amazon CDN (Content Delivery Network) to fetch data from the Amazon 
 
 • Code blocks
 
+
+### Technologies Used
+- Embeded C
+- Arduino C
+- HTML
+- Java Script
+
